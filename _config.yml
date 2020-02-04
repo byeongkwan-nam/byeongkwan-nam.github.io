@@ -14,14 +14,15 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-# Site Settings
+remote_theme : mmistakes/minimal-mistakes
 
-locale                   : "en-US"
-title                    : "Site Title"
+# Site Settings
+locale                   : "ko-KR"
+title                    : "I am because we are."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Byeongkwan Nam"
+description              : ""
 url                      : "https://byeongkwan-nam.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,15 +109,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "BK NAM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "배우고 나누려고 합니다."
+  location         : "Seoul"
+  email            : byeongkwan.nam@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:byeongkwan.nam@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -128,7 +129,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/byeongkwan-nam"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -144,7 +145,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/byeongkwan-nam"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -293,4 +294,4 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      related: true 

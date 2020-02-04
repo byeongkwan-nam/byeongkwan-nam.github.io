@@ -14,15 +14,14 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-remote_theme : mmistakes/minimal-mistakes
-
 # Site Settings
+
 locale                   : "en-US"
-title                    : "I am because we are."
+title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Byeongkwan Nam"
-description              : ""
+name                     : "Your Name"
+description              : "An amazing website."
 url                      : "https://byeongkwan-nam.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
